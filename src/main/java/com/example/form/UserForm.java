@@ -1,4 +1,4 @@
-package com.example.ecsample.form;
+package com.example.form;
 
 import jakarta.validation.constraints.AssertTrue;
 import jakarta.validation.constraints.Email;
